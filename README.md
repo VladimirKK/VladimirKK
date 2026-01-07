@@ -17,7 +17,18 @@
 <h4>Ключевые компетенции: Разработка и обучение ML-моделей, feature engineering, оптимизация алгоритмов, анализ данных.</h4>
 
 <h3>Технологический стек:</h3>
-![Python](./assets/badges/python.svg)
+
+![Python](https://raw.githubusercontent.com/VladimirKK/VladimirKK/refs/heads/main/assets/badges/python.svg)
+![Pandas](https://raw.githubusercontent.com/VladimirKK/VladimirKK/refs/heads/main/assets/badges/pandas.svg)
+![Numpy](https://raw.githubusercontent.com/VladimirKK/VladimirKK/refs/heads/main/assets/badges/numpy.svg)
+![SQL](https://img.shields.io/badge/SQL-%2307405e.svg?style=for-the-badge&logo=amazon-dynamodb&logoColor=white)
+![Sklearn](https://raw.githubusercontent.com/VladimirKK/VladimirKK/refs/heads/main/assets/badges/sk_learn.svg)
+![Pytorch](https://raw.githubusercontent.com/VladimirKK/VladimirKK/refs/heads/main/assets/badges/pyrotch.svg)
+![Scipy](https://raw.githubusercontent.com/VladimirKK/VladimirKK/refs/heads/main/assets/badges/scipy.svg)
+![Plt](https://raw.githubusercontent.com/VladimirKK/VladimirKK/refs/heads/main/assets/badges/matplotlib.svg)
+![Alchemy](https://raw.githubusercontent.com/VladimirKK/VladimirKK/refs/heads/main/assets/badges/alchemy.svg)
+![jupyter](https://raw.githubusercontent.com/VladimirKK/VladimirKK/refs/heads/main/assets/badges/jupyter.svg)
+![Colab](https://raw.githubusercontent.com/VladimirKK/VladimirKK/refs/heads/main/assets/badges/colab.svg)
 
 <h3>Ознакомиться с моими проектами можно ниже 👇:</h3>
 <!--
